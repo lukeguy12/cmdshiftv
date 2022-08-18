@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "cmdshiftv",
     "description": "",
-    "home_page_url": "https://lukeguy12.github.io/cmdshiftv",
-    "feed_url": "https://lukeguy12.github.io/cmdshiftv/feed.json",
+    "home_page_url": "https://cmdshiftv.com",
+    "feed_url": "https://cmdshiftv.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Luke"
     },
     "items": [
         {
-            "id": "https://lukeguy12.github.io/cmdshiftv/post-two.html",
-            "url": "https://lukeguy12.github.io/cmdshiftv/post-two.html",
+            "id": "https://cmdshiftv.com/post-two.html",
+            "url": "https://cmdshiftv.com/post-two.html",
             "title": "Post Two",
             "author": {
                 "name": "Luke"
@@ -22,8 +22,8 @@
             "date_modified": "2022-08-18T20:01:34+01:00"
         },
         {
-            "id": "https://lukeguy12.github.io/cmdshiftv/post-one.html",
-            "url": "https://lukeguy12.github.io/cmdshiftv/post-one.html",
+            "id": "https://cmdshiftv.com/post-one.html",
+            "url": "https://cmdshiftv.com/post-one.html",
             "title": "Post One",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {

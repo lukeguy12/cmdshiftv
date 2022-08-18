@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>cmdshiftv</title>
-    <link href="https://lukeguy12.github.io/cmdshiftv/feed.xml" rel="self" />
-    <link href="https://lukeguy12.github.io/cmdshiftv" />
+    <link href="https://cmdshiftv.com/feed.xml" rel="self" />
+    <link href="https://cmdshiftv.com" />
     <updated>2022-08-18T20:01:34+01:00</updated>
     <author>
         <name>Luke</name>
     </author>
-    <id>https://lukeguy12.github.io/cmdshiftv</id>
+    <id>https://cmdshiftv.com</id>
 
     <entry>
         <title>Post Two</title>
         <author>
             <name>Luke</name>
         </author>
-        <link href="https://lukeguy12.github.io/cmdshiftv/post-two.html"/>
-        <id>https://lukeguy12.github.io/cmdshiftv/post-two.html</id>
+        <link href="https://cmdshiftv.com/post-two.html"/>
+        <id>https://cmdshiftv.com/post-two.html</id>
 
         <updated>2022-08-18T20:01:34+01:00</updated>
             <summary></summary>
@@ -26,8 +26,8 @@
         <author>
             <name>Luke</name>
         </author>
-        <link href="https://lukeguy12.github.io/cmdshiftv/post-one.html"/>
-        <id>https://lukeguy12.github.io/cmdshiftv/post-one.html</id>
+        <link href="https://cmdshiftv.com/post-one.html"/>
+        <id>https://cmdshiftv.com/post-one.html</id>
 
         <updated>2022-08-18T19:42:11+01:00</updated>
             <summary></summary>
